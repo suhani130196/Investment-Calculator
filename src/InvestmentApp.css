@@ -1,0 +1,74 @@
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #000000;
+  background: url('./image/yellow-bg.jpeg');
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.headingContainer{
+  margin-left: 600px;
+}
+.logo{
+  width: 100px;
+  height: 100px;
+  margin-left: 120px;
+  align-items: center;
+}
+.Appheading{
+  color: black;
+  font-size: 50px;
+}
+.input-container{
+  padding: 0.75rem;
+  max-width: 25rem;
+  margin: 2rem auto;
+  border-radius: 20px;
+  background: linear-gradient(180deg, #384e34, #5a8251);
+  display: block;
+}
+.label {
+  margin-bottom: 0.25rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 0.75rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.inputBox{
+  width: 100%;
+  padding: 0.25rem;
+  border: 1px solid #76c0ae;
+  border-radius: 0.50rem;
+  background-color: transparent;
+  color: #c2e9e0;
+  font-size: 1.5rem;
+}
+.table {
+  margin: 2rem auto;
+  border-collapse: collapse;
+}
+.table th {
+  margin: 3px;
+  width: 150px;
+  padding: 5px;
+  text-align: center;
+}
+
+.table td {
+  margin-left: 10px;
+  width: 200px;
+  padding: 5px;
+  text-align: center;
+}
+
+
+
+
